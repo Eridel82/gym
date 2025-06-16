@@ -202,7 +202,7 @@ const rutinaSemana1 = [
     dia: 'Viernes',
     titulo: 'Día 3 - Glúteos y Piernas',
     ejercicios: [
-      'Hip thrust 4x10',
+      'Hip thrust',
       'Press de banca inclinado con mancuernas',
       'Remo con mancuernas',
       'Zancada inversa con barra alta',
